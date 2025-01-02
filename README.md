@@ -12,3 +12,4 @@ Utilize your knowledge of Pandas to gather the information the shelter is reques
 Directions
 
 1) Open file in Jupyter Notebooks or VS Code with Juypter plugin.
+2) Run all.
